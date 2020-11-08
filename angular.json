@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "authapp"
+    }
+  },
+  "defaultProject": "authapp",
+  "cli": {
+    "analytics": "9f0816c2-850f-4152-9c87-76027cbcc309"
+  }
 }
